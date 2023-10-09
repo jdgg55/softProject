@@ -15,8 +15,8 @@ private:
 };
 
 Test::Test() {
-	a = 1;
-	b = 2;
+	a = 10;
+	b = 20;
 }
 
 void Test::print() {
